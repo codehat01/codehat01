@@ -48,6 +48,18 @@
     <!-- Add your projects here -->
   </tbody>
 </table>
+<!-- My Projects -->
+<h3 align="left">My Projects:</h3>
+
+<!-- GitHub ReadMe Cards -->
+<div align="center">
+  <a href="https://github.com/codehat01/simpleshellprogram">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codehat01&repo=simpleshellprogram" alt="Simple Shell Program Repository" />
+  </a>
+  <a href="https://github.com/codehat01/codehat01">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codehat01&repo=codehat01" alt="Codehat01 Repository" />
+  </a>
+</div>
 
 <!-- GitHub contribution graph -->
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=codehat01&theme=react-dark&hide_border=true&area=true)
