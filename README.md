@@ -83,7 +83,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- Spotify playing -->
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj)
 
 <!-- Social media links -->
 <!-- Add your social media links here -->
