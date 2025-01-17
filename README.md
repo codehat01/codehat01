@@ -54,6 +54,12 @@
   <a href="https://github.com/codehat01/codehat01">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=codehat01&repo=codehat01" alt="Codehat01 Repository" />
   </a>
+    <a href="https://github.com/zorohack03/Supplychain-Management-version1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zorohack03&repo=Supplychain-Management-version1" alt="Supplychain-Management-version1" />
+  </a>
+  <a href="https://github.com/codehat01/javaproject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codehat01&repo=javaproject" alt="javaproject" />
+  </a>
 </div>
 
 <!-- GitHub contribution graph -->
