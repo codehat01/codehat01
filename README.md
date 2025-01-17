@@ -66,7 +66,13 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=codehat01&theme=react-dark&hide_border=true&area=true)
 
 <!-- Snake animation -->
-![Snake animation](https://github.com/codehat01/github-readme/blob/output/github-contribution-snake.svg)
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codehat01/codehat01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codehat01/codehat01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codehat01/codehat01/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 <!-- GitHub repository contributors -->
 <a href="https://github.com/codehat01/<YOUR-REPO>/graphs/contributors">
